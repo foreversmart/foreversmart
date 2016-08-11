@@ -1,11 +1,16 @@
----
-layout: post
-title: "Go function introduction 2"
-description: ""
-category: go
-tags: []
----
-{% include JB/setup %}
++++
+date = "2015-04-20T10:54:24+02:00"
+draft = false
+title = "Go Function Introduction 2"
+slug = "go_function_2"
+tags = ["go", "function"]
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = "foreversmart"
+featured = false
+description = "golang 函数使用2"
++++
 
 作者：ForeverSmart   
 [原文链接:](http://foreversmart.github.io/go/2015/04/20/go-function-introduction-2/) http://foreversmart.github.io/go/2015/04/20/go-function-introduction-2/

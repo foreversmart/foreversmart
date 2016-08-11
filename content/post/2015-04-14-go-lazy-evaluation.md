@@ -1,11 +1,16 @@
----
-layout: post
-title: "Go lazy evaluation"
-description: ""
-category: go
-tags: []
----
-{% include JB/setup %}
++++
+date = "2015-04-14T10:54:24+02:00"
+draft = false
+title = "Go Lazy Evaluation"
+slug = "go_lazy_evaluation"
+tags = ["go"]
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = "foreversmart"
+featured = false
+description = "golang 惰性求值"
++++
 
 作者：ForeverSmart   
 [原文链接:](http://foreversmart.github.io/go/2015/04/14/go-lazy-evaluation) http://foreversmart.github.io/go/2015/04/14/go-lazy-evaluation/

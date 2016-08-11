@@ -1,12 +1,17 @@
----
-layout: post
-title: "write in go"
-description: ""
-category: "go"
-tags: []
----
-{% include JB/setup %}
-
++++
+date = "2014-12-23T10:54:24+02:00"
+draft = false
+title = "write in go"
+slug = "write_in_go"
+tags = ["go","song"]
+image = "http://obovlo80m.bkt.clouddn.com/let_it_go.png"
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = "foreversmart"
+featured = false
+description = "Golang 版本的Let it Go"
++++
 
 [write in go视频](https://www.youtube.com/watch?v=LJvEIjRBSDA&feature=youtu.be)
 

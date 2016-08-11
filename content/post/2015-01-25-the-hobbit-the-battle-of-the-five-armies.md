@@ -1,11 +1,17 @@
----
-layout: post
-title: "The Hobbit: The Battle of the Five Armies"
-description: ""
-category: 
-tags: []
----
-{% include JB/setup %}
++++
+date = "2015-01-25T10:54:24+02:00"
+draft = false
+title = "The Hobbit: The Battle of the Five Armies"
+slug = "the_battle_of_five_armies"
+tags = ["movie"]
+image = "http://mytutu.qiniudn.com/hobbit.jpg"
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = "foreversmart"
+featured = false
+description = "电影霍比特人五军之战观后感"
++++
 
 * The Imax:
 

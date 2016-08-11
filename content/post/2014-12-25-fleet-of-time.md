@@ -1,13 +1,18 @@
----
-layout: post
-title: "fleet of time"
-description: ""
-category: 
-tags: []
----
-{% include JB/setup %}
++++
+date = "2014-12-25T10:54:24+02:00"
+draft = false
+title = "fleet of time"
+slug = "fleet_of_time"
+tags = ["随笔"] 
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = "foreversmart"
+featured = false
+description = "匆匆那年,浮动斑驳的人影"
++++
 
-###匆匆那年
+### 匆匆那年
 ---
 
 ----------------回忆恍惚中蓝绿的天空，浮动斑驳的人影，那是我们青春的记忆。

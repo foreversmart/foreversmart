@@ -1,11 +1,16 @@
----
-layout: post
-title: "people behind the wall"
-description: ""
-category: 
-tags: []
----
-{% include JB/setup %}
++++
+date = "2015-07-20T10:54:24+02:00"
+draft = false
+title = "墙后的人们"
+tags = ["随想"] 
+slug = "people_behind_the_wall"
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = "foreversmart"
+featured = false
+description = "墙,大家都各自站在自己的墙后"
++++
 
 #### 墙后的人们
 

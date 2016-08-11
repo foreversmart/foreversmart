@@ -1,11 +1,16 @@
----
-layout: post
-title: "Go strconv"
-description: ""
-category: go
-tags: []
----
-{% include JB/setup %}
++++
+date = "2015-03-14T10:54:24+02:00"
+draft = false
+title = "Go Strconv使用"
+slug = "go_strconv"
+tags = ["go"]
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = "foreversmart"
+featured = false
+description = "golang strconv 包使用笔记"
++++
 
 作者：ForeverSmart   
 [原文链接:](http://foreversmart.github.io/go/2015/03/25/go-strconv/) http://foreversmart.github.io/go/2015/03/25/go-strconv/

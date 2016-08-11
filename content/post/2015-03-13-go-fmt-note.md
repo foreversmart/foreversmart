@@ -1,11 +1,16 @@
----
-layout: post
-title: "go fmt note"
-description: ""
-category: go
-tags: []
----
-{% include JB/setup %}
++++
+date = "2015-03-13T10:54:24+02:00"
+draft = false
+title = "Go Fmt Note"
+slug = "go_fmt_note"
+tags = ["go"]
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = "foreversmart"
+featured = false
+description = "fmt 使用笔记"
++++
 
 作者：ForeverSmart   
 [原文链接:](http://foreversmart.github.io/go/2015/03/13/go-fmt-note/) http://foreversmart.github.io/go/2015/03/13/go-fmt-note/

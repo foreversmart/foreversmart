@@ -1,11 +1,16 @@
----
-layout: post
-title: "Go strings package note"
-description: ""
-category: go 
-tags: []
----
-{% include JB/setup %}
++++
+date = "2015-03-14T10:54:24+02:00"
+draft = false
+title = "Go Strings Note"
+slug = "go_strings_note"
+tags = ["go"]
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = "foreversmart"
+featured = false
+description = "golang strings 包使用笔记"
++++
 
 作者：ForeverSmart   
 [原文链接:](http://foreversmart.github.io/go/2015/03/14/go-strings-package-note/) http://foreversmart.github.io/go/2015/03/14/go-strings-package-note/

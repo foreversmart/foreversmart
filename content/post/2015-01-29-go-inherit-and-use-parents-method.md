@@ -1,10 +1,17 @@
----
-layout: post
-title: "Go inherit and use parent's method"
-description: ""
-category: 
-tags: []
----
++++
+date = "2015-01-29T10:54:24+02:00"
+draft = false
+title = "Go inherit and use parent's method"
+slug = "go_inherit_parent_method"
+tags = ["go"]
+image = "http://obovlo80m.bkt.clouddn.com/struct.jpg"
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = "foreversmart"
+featured = false
+description = "Golang 如何使用另一个struct的方法"
++++
 
 问题：
 

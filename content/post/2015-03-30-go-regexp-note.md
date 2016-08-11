@@ -1,11 +1,16 @@
----
-layout: post
-title: "Go regexp note"
-description: ""
-category: go 
-tags: []
----
-{% include JB/setup %}
++++
+date = "2015-03-14T10:54:24+02:00"
+draft = false
+title = "Go Regexp Note"
+slug = "go_regexp_note"
+tags = ["go"]
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = "foreversmart"
+featured = false
+description = "golang 正则表达式使用笔记"
++++
 
 作者：ForeverSmart   
 [原文链接:](http://foreversmart.github.io/go/2015/03/30/go-regexp-note/) http://foreversmart.github.io/go/2015/03/30/go-regexp-note/
