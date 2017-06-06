@@ -1,6 +1,9 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
 title = "ForeverSmart"
+paginate = 10
+paginatePath="page"
+defaultLayout="tech"
 
 [params]
     Subtitle = "Software Engineer construct websites, mobile apps. Gopher, and a go preacher of Geek College. building a distributed craw system and information recommendation system.本博客用于记录生活中的小事，技术中的困惑，思想的变迁"
@@ -8,3 +11,4 @@ title = "ForeverSmart"
 	logo = "http://obovlo80m.bkt.clouddn.com/icon1.png"
 	github = "http://github.com/foreversmart"
 	mail = "mailto:njutree@gmail.com"
+	disqus = "foreversmart"
