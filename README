@@ -1,0 +1,49 @@
+#### 使用方法：
+
+##### 新建一篇文章
+
+hugo new posts/my-first-post.md
+
+hugo new posts/tech/my-second-post.md
+
+##### 本地测试：
+
+```
+hugo -b http://127.0.0.1:1313 -t hugo-sirity-theme server
+// 通过 -t 参数指定本地目录 themes 下的主题名称
+```
+
+##### 获取新主题：
+
+访问 https://themes.gohugo.io/ 可以查看和下载主题
+
+
+##### 发布
+
+运行 
+```
+sh deploy.sh
+// 自动打包网站为静态资源发布到服务器上
+```
+
+服务器需要装有 nginx
+
+参考的服务器 nginx 配置：
+
+```
+server {
+	    listen 80;
+		listen [::]:80;
+	 	root /home/hong/workplace/blog/public;
+		index index.html index.htm;
+		server_name foreversmart.cc www.foreversmart.cc;
+		location ~ .*\.(jpg|jpeg|gif|png|ico|css|js|pdf|txt){
+			root /home/hong/workplace/blog/public;
+		}
+
+}
+```
+
+这个配置文件为 /etc/nginx/sites-available/web_domain
+编辑好这个好配置文件后还需要 sudo ln -s /etc/nginx/sites-available/web_domain /etc/nginx/sites-enabled/.
+sudo nginx -s reload 重新加载 nginx 后生效

@@ -1,6 +1,6 @@
 +++
 date = "2014-12-04T10:54:24+02:00"
-draft = false
+draft = true
 title = "学习GO routine"
 slug = "goroutine"
 tags = ["go","goroutine"]
