@@ -12,9 +12,9 @@ featured = false
 description = "电影霍比特人五军之战后感"
 +++
 
-![](http://foreversmart.cc:4433/master/blog/20191109164756.png)
+![](http://foreversmart.cc:7444/images/201911191.png)
 
-![](http://foreversmart.cc:4433/master/blog/20191109170152.png)
+![](http://foreversmart.cc:7444/images/201911192.png)
 
 以前在电脑上把魔戒3部曲看了被里面庞大的世界观所深深吸引，里面有孤芳自赏的精力，快乐狡滑的矮人，有龙，有猎人
 有魔法师，有刺客，有战士。一直遗憾没有机会在大屏幕上去欣赏这部神作。然后就听说续作霍比特人五军之战要上映了
@@ -23,7 +23,7 @@ description = "电影霍比特人五军之战后感"
 	
 电影一开始延续去年的Hobbit人2，邪恶的火龙涂炭整个长湖镇。
 夜晚的长湖镇：
-![](http://foreversmart.cc:4433/master/blog/20191109170527.png)
+![](http://foreversmart.cc:7444/images/201911193.png)
 
 最开始的特效相当的惊人，火灾城镇的各个地方肆掠，电影花功夫刻画了，不同的人在末日来袭时逃命的各种情景。
 屠龙者巴徳延续了他的使命在最后时刻用射死了火龙挽救了长湖镇。
@@ -32,15 +32,21 @@ description = "电影霍比特人五军之战后感"
 前面对战争前的各方势力蠢蠢欲动，准备的描写很深动刻画的也不错。
 
 集结的兽人军团：
-![](http://foreversmart.cc:4433/master/blog/20191109172424.png)
+![](http://foreversmart.cc:7444/images/201911194.png)
+
+亡灵军团：
+![](http://foreversmart.cc:7444/images/201911201.png)
 
 矮人军团：
-![](http://foreversmart.cc:4433/master/blog/20191109173955.png)
+![](http://foreversmart.cc:7444/images/201911195.png)
 
-![](http://foreversmart.cc:4433/master/blog/20191109182046.png)
+片尾手绘：
+
+![](http://foreversmart.cc:7444/images/201911196.png)
+
+![](http://foreversmart.cc:7444/images/201911197.png)
 
 ，但是到了战争时只是很少的轻描淡写。
-
 
 
 最后的镜头给了索林，和年轻的精灵王子与兽人两名首领的较量。
