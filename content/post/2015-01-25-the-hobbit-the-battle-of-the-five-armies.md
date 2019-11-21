@@ -31,6 +31,8 @@ description = "电影霍比特人五军之战后感"
 后面这电影的故事满满开始，火龙死后，各方势力蠢蠢欲动，试图占有孤山的财富和有力地形，各路人马在孤山下一决雌雄。
 前面对战争前的各方势力蠢蠢欲动，准备的描写很深动刻画的也不错。
 
+![](http://foreversmart.cc:7444/images/201911203.png)
+
 集结的兽人军团：
 ![](http://foreversmart.cc:7444/images/201911194.png)
 
@@ -45,6 +47,8 @@ description = "电影霍比特人五军之战后感"
 ![](http://foreversmart.cc:7444/images/201911196.png)
 
 ![](http://foreversmart.cc:7444/images/201911197.png)
+
+![](http://foreversmart.cc:7444/images/201911202.png)
 
 ，但是到了战争时只是很少的轻描淡写。
 
