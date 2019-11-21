@@ -17,12 +17,12 @@ title = "grafana deploy and usage"
 #### Grafana
 
 Grafana 是一款漂亮的开源分析和监控的平台，它可以让你把数据漂亮的展示出来无论你的数据数据存放在何处和依赖于什么数据库。
-它支持![32种数据源](https://grafana.com/plugins?type=datasource), ![27类面板](https://grafana.com/plugins?type=panel)
+它支持[32种数据源](https://grafana.com/plugins?type=datasource), [27类面板](https://grafana.com/plugins?type=panel)
 
 #### Install on docker
 
 由于特定的场景我们需要将 Grafana 作为服务安装在 docker 上。
-我们可以打开 grafana 官方提供的![安装文档](http://docs.grafana.org/installation/docker)
+我们可以打开 grafana 官方提供的[安装文档](http://docs.grafana.org/installation/docker)
 这里面简单的描述了，如何使用官方提供的默认 docker image 去运行 grafana 服务；作为基本的使用这种方式其实已经能满足我们使用的需求了。
 
 由于我们在使用的过程中涉及到的 config 项比较多， 我们可以自定义 docker image 把 grafana 的配置文件 grafana.ini 动态的打包到镜像中。
