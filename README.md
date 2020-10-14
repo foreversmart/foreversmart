@@ -6,7 +6,7 @@
   <br><br>
   <samp>
 I'm Ben. A Golang Developer mostly foucs Microservice，web technology，VM And Cloud computing.
-     <br><br>Contact me on <img alt="foreversmart" src="https://img.shields.io/twitter/url?style=social&url=njutree"> or <a href="mailto:njutree@gmail.com">Send an Email</a>
+     <br><br>Contact me on <img alt="Foreversmart" src="https://img.shields.io/twitter/follow/njutree"> or <a href="mailto:njutree@gmail.com">Send an Email</a>
   </samp>
 </p>
 
