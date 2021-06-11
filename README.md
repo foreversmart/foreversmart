@@ -10,6 +10,8 @@ I'm Ben. A Golang Developer mostly foucs Microservice，web technology，VM And 
   </samp>
 </p>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=foreversmart)
+
 <!--
 **foreversmart/foreversmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
